@@ -5,7 +5,7 @@ permalink: /publications/
 main_nav: true
 ---
 
-Below are selected publications. The full list is available at [ADS](https://ui.adsabs.harvard.edu/public-libraries/vYTcRzaqT2eHYlXkPL_UKQ) and [Google Scholar](https://scholar.google.com/citations?user=psn3Y5cAAAAJ).
+Below are selected publications. The full list is available at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc) and [Google Scholar](https://scholar.google.com/citations?user=psn3Y5cAAAAJ).
 
 <b>Minghao Guo</b>, James M. Stone, Eliot Quataert, and Chang-Goo Kim, Magnetized Accretion onto and Feedback from Supermassive Black Holes in Elliptical Galaxies
 , [ApJ 973, 141 (2024)](https://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7), [arXiv:2405.11711 [astro-ph.HE]](https://arxiv.org/abs/2405.11711) .

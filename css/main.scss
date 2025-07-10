@@ -11,3 +11,10 @@
   "neat/neat",
   "layout"
 ;
+
+/* Override content width */
+.wrapper {
+  max-width: 1200px;   /* or try 900px, 1200px, etc. */
+  margin: 0 auto;      /* center the content */
+  padding: 0 20px;     /* some side padding for breathing room */
+}

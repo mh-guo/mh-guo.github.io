@@ -19,7 +19,7 @@ We present a ``cyclic zoom'' method to capture the dynamics of accretion flows o
 
 ![alt text]({{ site.baseurl }}/assets/acc_mhd_zoom_edge.png "Zoom in MHD Accretion onto Black Holes")
 
-<video width="1600" controls>
+<video width="1200" controls>
   <source src="/assets/amh_proj_all_small.mp4" type="video/mp4">
 </video>
 

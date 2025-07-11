@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/MG_Weiming.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/MG_2024.jpg "Profile Picture"){:.profile}
 
 I am Minghao Guo 郭明浩. I am currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. James Stone and Eliot Quataert. I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in both theoretical and observational astrophysics. I was born in Changzhi City, China.
 

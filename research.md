@@ -7,7 +7,7 @@ main_nav: true
 
 I am interested in both theoretical and observational astrophysics.
 
-<h1> Cyclic Zoom: Multi-scale GRMHD Modeling of Black Hole Accretion and Feedback </h1>
+<h1> Cyclic Zoom: Multiscale GRMHD Modeling of Black Hole Accretion and Feedback </h1>
 
 [arXiv:2504.16802 [astro-ph.HE]](https://arxiv.org/abs/2504.16802)
 

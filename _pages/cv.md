@@ -20,10 +20,7 @@ Education
 
 Position
 ======
-* Dec 2023 -- 2026 (expected): Visiting graduate student
-  * Institute for Advanced Study
-  * School of Natural Sciences
-  * Supervisor: James M. Stone
+* Visiting graduate student at the Institute for Advanced Study, Dec 2023 -- 2026 (expected): 
 
 Research
 ======
@@ -33,12 +30,10 @@ Research
 
 Skills
 ======
-* Massive parallel computing on supercomputer, dataset analyzing and visualization
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Massive parallel computing on supercomputer
+  * massive parallel computing
+  * dataset analyzing
+  * visualization
 
 Publications
 ======

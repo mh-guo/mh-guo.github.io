@@ -16,6 +16,15 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    <div class="default-banner">
+      <div class="banner-text">Physics begins in wonder</div>
+      <video autoplay muted loop playsinline style="width:100%;max-height:216px;object-fit:cover;" poster="/images/fig_background_z.png">
+        <source src="{{ site.cover_video | default: '/videos/video_background_z3.mp4' }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <!-- Optional: Add text over the banner -->
+    </div>
+
     {{ content }}
 
     <div class="page__footer">

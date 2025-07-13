@@ -345,6 +345,31 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
+.default-banner {
+  position: relative;
+  width: 100%;
+}
+.default-banner .banner-text {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  z-index: 2;
+  width: 100%;
+  text-align: center;
+  pointer-events: none;
+}
+.default-banner img {
+  display: block;
+  width: 100%;
+  max-height: 216px;
+  object-fit: cover;
+}
+
 /* ==========================================================================
    PRINT STYLES
    ========================================================================== */

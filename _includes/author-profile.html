@@ -28,7 +28,14 @@
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
+          {% if author.employer_url %}
+            <a href="{{ author.employer_url }}" target="_blank" rel="noopener">{{ author.employer }}</a>
+          {% else %}
+            {{ author.employer }}
+          {% endif %}
+        </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -78,6 +85,9 @@
       {% endif %}      
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+      {% endif %}
+      {% if site.author.gitlab %}
+        <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab icon-pad-right" aria-hidden="true"></i>GitLab</a></li>
       {% endif %}
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>

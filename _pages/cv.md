@@ -2,39 +2,38 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
+[Find my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+=====
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Astrophysics, Princeton University, 2026 (expected)
+* M.S. in Astrophysics, Princeton University, 2023
+* B.S. in Physics, Peking University, 2021
 
-Work experience
+Position
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2023 -- 2026 (expected): Visiting graduate student
+  * Institute for Advanced Study
+  * School of Natural Sciences
+  * Supervisor: James M. Stone
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research
+======
+  1. Black hole
+  1. Supernova remnant
+  1. Multiphase ISM
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
+* Massive parallel computing on supercomputer, dataset analyzing and visualization
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2

@@ -36,7 +36,7 @@ Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_dat
 
 1. **Minghao Guo**, Kohei Inayoshi, Tomonari Michiyama, and Luis C. Ho, Hunting for Wandering MassiveBlack Holes, [ApJ 901, 39 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/abacc1), [arXiv:2006.08203 [astro-ph.HE]](https://arxiv.org/abs/2006.08203) .
 
-1. **Minghao Guo**, Min Du, Luis C. Ho, Victor P. Debattista, and Dongyao Zhao, A New Channel of BulgeFormation via the Destruction of Short Bars, [ApJ 888, 65 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/ab584a), [arXiv:1911.07002 [astro-ph.GA]](https://arxiv.org/abs/1911.07002) .
+1. **Minghao Guo**, Min Du, Luis C. Ho, Victor P. Debattista, and Dongyao Zhao, A New Channel of Bulge Formation via the Destruction of Short Bars, [ApJ 888, 65 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/ab584a), [arXiv:1911.07002 [astro-ph.GA]](https://arxiv.org/abs/1911.07002) .
 
 
 Research
@@ -50,7 +50,7 @@ My research interests include:
 - Numerical methods and simulations, GPU computing, new numerical techniques
 - Neutron stars, pulsars, gravitational waves, modified gravity theory
 
-[Cyclic Zoom: Solving the multiscale problem]((https://iopscience.iop.org/article/10.3847/1538-4357/add1da))
+[Cyclic Zoom: Solving the multiscale problem](https://iopscience.iop.org/article/10.3847/1538-4357/add1da)
 ------
 
 ![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)
@@ -87,6 +87,17 @@ Supernova remnant in a cloudy multiphase interstellar medium
 
 We investigate the evolution of supernova remnants (SNRs) in a two-phase cloudy medium by performing a series of high-resolution (up to $$\Delta x\approx0.01\,\mathrm{pc}$$), 3D hydrodynamical simulations including radiative cooling and thermal conduction. We aim to reach a resolution that directly captures the shock-cloud interactions for the majority of the clouds initialized by the saturation of thermal instability. In comparison to the SNR in a uniform medium with the volume filling warm medium, the SNR expands similarly (following $$\propto t^{2/5}$$) but sweeps up more mass as the cold clouds contribute before shocks in the warm medium become radiative. However, the SNR in a cloudy medium continuously loses energy after shocks toward the cold clouds cool, resulting in less hot gas mass, thermal energy, and terminal momentum. Thermal conduction has little effect on the dynamics of the SNR but smooths the morphology and modifies the internal structure by increasing the density of hot gas by a factor of $$\sim 3-5$$. The simulation results are not fully consistent with many previous 1D models describing the SNR in a cloudy medium including a mass loading term. By direct measurement in the simulations, we find that, apart from the mass source, the energy sink is also important with a spatially flat cooling rate $$\dot{e}\propto t^{-11/5}$$. As an illustration, we show an example 1D model including both mass source and energy sink terms (in addition to the radiative cooling in the volume filling component) that better describes the structure of the simulated SNR.
 
-Can one stand before the void, embraced by nature, and not ask why?
+Hunting for Wandering Black Hole
+------
+
+![Wandering BH](/images/fig_wandering_BH.png)
+
+In the Λ-cold dark matter universe, frequent galaxy mergers and the subsequent central BH interactions would probably create a population of wandering BHs. We investigated low-density accretion flows onto massive black holes orbiting around in the outskirts of their host galaxies (e.g., massive ellipticals, Milky Way, dwarf galaxies), performing three-dimensional simulations and semi-analytical calculations. We constructed radiative inefficient accretion-flow models for accretion near the horizon of a black hole, applied the simulation results to the emission model, and calculated the spectral energy distribution for the accretion flow onto a wandering black hole. We studied the detectability of wandering (super-massive) black holes in different types of galaxies, predicting that ALMA will enable us to hunt for a population of wandering BHs.
+
+<br>
+
+<br>
+
+Catch the black hole?
 ------
 ![Physics](/images/header_image_wallhaven.jpg)

@@ -16,7 +16,7 @@ description              : &description "personal description"
 url                      : https://mh-guo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mh-guo/mh-guo.github.io"
-cover                    : "https://mh-guo.github.io/assets/header_image_wallhaven.jpg"
+cover                    : "https://mh-guo.github.io/images/fig_background_z.png"
 cover_video              : "https://mh-guo.github.io/videos/video_background_z3.mp4"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

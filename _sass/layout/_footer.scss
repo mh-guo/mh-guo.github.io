@@ -34,6 +34,7 @@
     margin-top: 1em;
     max-width: 100%;
     padding: 0 1em 1em;
+    display: flex;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -58,11 +59,15 @@
 }
 
 .page__footer-copyright {
+  width: 40%;
   font-family: $global-font-family;
   font-size: $type-size-7;
+  padding: 1em;
 }
 
 .page__footer-follow {
+  width: 30%;
+  padding: 1em;
   ul {
     margin: 0;
     padding: 0;
@@ -93,4 +98,9 @@
       white-space: nowrap;
     }
   }
+}
+
+.page__footer-log {
+  width: 5%;
+  max-width: 10%;
 }

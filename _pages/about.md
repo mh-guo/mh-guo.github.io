@@ -61,7 +61,7 @@ We present a "cyclic zoom" method to capture the dynamics of accretion flows ont
 ------
 
 <figure>
-  <video autoplay muted loop playsinline width="960" controls>
+  <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
     <source src="https://mh-guo.github.io/videos/amh_proj_all_small.mp4" type="video/mp4">
   </video>
   <figcaption> Zoom-in MHD simulations of black hole accretion from galaxy down to event horizon.</figcaption>
@@ -72,7 +72,7 @@ We use a series of zoom-in MHD simulations that cover the entire range from gala
 See below for a video of the hydrodynamic case.
 
 <figure>
-  <video autoplay muted loop playsinline width="960" controls>
+  <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
     <source src="https://mh-guo.github.io/videos/Acc_video_render_zoom.mp4" type="video/mp4">
   </video>
   <figcaption> Zoom-in hydrodynamic simulations of black hole accretion from galactic scales.</figcaption>

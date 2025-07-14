@@ -98,6 +98,6 @@ In the Λ-cold dark matter universe, frequent galaxy mergers and the subsequent 
 
 <br>
 
-Catch the black hole?
+...catch the black hole?
 ------
 ![Physics](/images/header_image_wallhaven.jpg)

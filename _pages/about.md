@@ -20,7 +20,7 @@ Last updated July, 2025.
 
 Publications
 ======
-Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc) and [Google Scholar]({{site.author.googlescholar}}). Below are selected works:
+Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc) and [Google Scholar]({{site.author.googlescholar}}). Below are first-author works:
 
 1. **Minghao Guo**, James M. Stone, Eliot Quataert, and Volker Springel, Cyclic Zoom: Multiscale GRMHD Modeling of Black Hole Accretion and Feedback, [ApJ 987, 202 (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/add1da), [arXiv:2504.16802 [astro-ph.HE]](https://arxiv.org/abs/2504.16802) .
 
@@ -79,6 +79,13 @@ See below for a video of the hydrodynamic case.
 </figure>
 
  We find that the accretion flow takes the form of multiphase gas at radii less than about a kpc. The cold gas accretion includes two dynamically distinct stages: the typical disk stage in which the cold gas resides in a rotationally supported disk and relatively rare chaotic stages ($$ \lesssim 10\% $$ of the time) in which the cold gas inflows via chaotic streams. Though cold gas accretion dominates the time-averaged accretion rate at intermediate radii, accretion at the smallest radii is dominated by hot virialized gas at most times.
+
+Idealized accretion disks with strong toroidal magnetic fields
+------
+
+![Magnetized disk](/images/fig_mdisk_slice.png)
+
+We present global magnetohydrodynamic (MHD) simulations of accretion disks with a strong toroidal magnetic field using an equation of state that fixes the gas thermal scale height. The disk forms from the inflow of a rotating magnetized gas cloud with a toroidal magnetic field. We find that the system maintains a moderately strong mean azimuthal field in the midplane, with plasma $$\beta \sim 1$$, trans-Alfvénic fluctuations, and large accretion stresses $$\alpha\sim0.1$$. The azimuthal field in the disk is continuously escaping along the vertical direction but is also replenished via a local dynamo. The inflowing gas initially forms a strongly magnetized Keplerian disk with $$\beta\ll1$$ and $$\alpha \gg 1$$. The disk gradually collapses from the inside out over $$\sim 50-80$$ orbits to form a moderately magnetized disk with $$\beta\sim1$$ and $$\alpha\sim0.1$$. Radial advection of azimuthal magnetic field can maintain $$\beta\lesssim1$$ exterior to the circularization radius but not inside of it. Inclusion of a net initial vertical magnetic field can lead to an even more strongly magnetized disk midplane, consistent with previous work. When the gas thermal scale is not resolved ($$\lesssim 4$$ cells per thermal scale height), however, the disk remains highly magnetized with $$\beta \ll 1 $$. We discuss our results in the context of related shearing box simulations and other global disk simulations. The level of angular momentum transport found here is consistent with that inferred observationally in dwarf novae and X-ray transient outbursts, unlike simulations of weakly magnetized accretion disks.
 
 Supernova remnant in a cloudy multiphase interstellar medium
 ------

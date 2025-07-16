@@ -42,7 +42,7 @@ Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_dat
 Research
 ======
 
-I am widely interested in theoretical, numerical, and observational astrophysics. I major in physics with particular interest in astrophysics and broad background in mathematics and computer science. I am interested in a variety of intriguing topics in astronomy and astrophysics, especially black hole astrophysics, galaxy formation, cosmology, gravitational wave and gravity test. I generally use numerical techniques and tools ([AthenaK](https://github.com/IAS-Astrophysics/athenak)) to investigate the abundant phenomenon in various fields in astrophysics. I have experience on doing research involving theoretical, numerical and observational astrophysics, e.g., coevolution between supermassive black holes and host galaxies, black hole accretions as well as modified gravity and the application onto neutron stars.
+I am a computational astrophysicist with wide interests in theoretical, numerical, and observational astrophysics and a broad background in mathematics and computer science. I am attracted by a variety of intriguing topics in astronomy and astrophysics, especially black hole astrophysics, galaxy formation, cosmology, gravitational wave and gravity test. I generally use theoretical model and numerical techniques ([AthenaK](https://github.com/IAS-Astrophysics/athenak)) to investigate the abundant phenomenon in various fields in astrophysics. I have experience on doing research involving black hole accretion and feedback, coevolution between supermassive black holes and host galaxies, supernova remnants, multiphase interstellar medium, modified gravity theories, etc.
 
 My research interests include:
 - Black holes, high energy astrophysics, accretion disk, general relativistic magnetohydrodynamics (GRMHD)
@@ -94,12 +94,23 @@ Supernova remnant in a cloudy multiphase interstellar medium
 
 We investigate the evolution of supernova remnants (SNRs) in a two-phase cloudy medium by performing a series of high-resolution (up to $$\Delta x\approx0.01\,\mathrm{pc}$$), 3D hydrodynamical simulations including radiative cooling and thermal conduction. We aim to reach a resolution that directly captures the shock-cloud interactions for the majority of the clouds initialized by the saturation of thermal instability. In comparison to the SNR in a uniform medium with the volume filling warm medium, the SNR expands similarly (following $$\propto t^{2/5}$$) but sweeps up more mass as the cold clouds contribute before shocks in the warm medium become radiative. However, the SNR in a cloudy medium continuously loses energy after shocks toward the cold clouds cool, resulting in less hot gas mass, thermal energy, and terminal momentum. Thermal conduction has little effect on the dynamics of the SNR but smooths the morphology and modifies the internal structure by increasing the density of hot gas by a factor of $$\sim 3-5$$. The simulation results are not fully consistent with many previous 1D models describing the SNR in a cloudy medium including a mass loading term. By direct measurement in the simulations, we find that, apart from the mass source, the energy sink is also important with a spatially flat cooling rate $$\dot{e}\propto t^{-11/5}$$. As an illustration, we show an example 1D model including both mass source and energy sink terms (in addition to the radiative cooling in the volume filling component) that better describes the structure of the simulated SNR.
 
+See below for the 3D structure (model available at [Sketchfab](https://skfb.ly/oBVz9)).
+
+<figure>
+  <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
+    <source src="https://mh-guo.github.io/videos/snr_3d_model.mp4" type="video/mp4">
+  </video>
+  <figcaption> Extraction of the surface of supernova remnants in a multiphase ISM. 3D model available at [Sketchfab](https://skfb.ly/oBVz9).</figcaption>
+</figure>
+
 Hunting for Wandering Black Hole
 ------
 
 ![Wandering BH](/images/fig_wandering_BH.png)
 
 In the Λ-cold dark matter universe, frequent galaxy mergers and the subsequent central BH interactions would probably create a population of wandering BHs. We investigated low-density accretion flows onto massive black holes orbiting around in the outskirts of their host galaxies (e.g., massive ellipticals, Milky Way, dwarf galaxies), performing three-dimensional simulations and semi-analytical calculations. We constructed radiative inefficient accretion-flow models for accretion near the horizon of a black hole, applied the simulation results to the emission model, and calculated the spectral energy distribution for the accretion flow onto a wandering black hole. We studied the detectability of wandering (super-massive) black holes in different types of galaxies, predicting that ALMA will enable us to hunt for a population of wandering BHs.
+
+<br>
 
 <br>
 

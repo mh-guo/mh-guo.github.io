@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I was an undergraduate at <a href="https://www.pku.edu.cn/">Peking Unversity</a>.
+I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking Unversity](https://www.pku.edu.cn/) in 2021.
 
 My current research focuses on multiscale multiphase modeling on the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in (general relativistic) magnetohydrodynamic (GRMHD) simulations. Simply using GRMHD simulations that resolve horizon scales to compute the feedback from the event horizon to galactic scales is generally infeasible due to the very restrictive time step constraints. To tackle this problem, we develop a series of method to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales.
 
@@ -15,7 +15,7 @@ I love sharing our wonderful universe to the public, and I give outreach talks a
 
 Last updated July, 2025.
 
-[Find my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+[Get my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======
 
 Publications
@@ -100,7 +100,7 @@ See below for the 3D structure (model available at [Sketchfab](https://skfb.ly/o
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
     <source src="https://mh-guo.github.io/videos/snr_3d_model.mp4" type="video/mp4">
   </video>
-  <figcaption> Extraction of the surface of supernova remnants in a multiphase ISM. 3D model available at [Sketchfab](https://skfb.ly/oBVz9).</figcaption>
+  <figcaption> Extraction of the surface of supernova remnants in a cloudy multiphase interstellar medium.</figcaption>
 </figure>
 
 Hunting for Wandering Black Hole

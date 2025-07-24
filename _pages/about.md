@@ -9,7 +9,7 @@ redirect_from:
 
 I am Minghao Guo (郭明浩), a final year graduate student at the <a href="https://web.astro.princeton.edu/" target="_blank" rel="noopener">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/) in 2021.
 
-My thesis work focuses on multiscale multiphase modeling on the dynamics of accretion onto and feedback from black holes across a vast range of spatial and temporal scales in (general relativistic) magnetohydrodynamic (MHD/GRMHD) simulations. Simply using GRMHD simulations that resolve horizon to compute the feedback from the black hole to galactic scales is generally infeasible due to the very restrictive time step constraints ($$\gtrsim 9$$ orders of magnetidue!). To tackle this problem, we develop a series of methods to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales. I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation within Bondi radius, wandering massive black holes, etc.
+My thesis work focuses on multiscale multiphase modeling on black hole accretion and feedback across a vast range of spatial and temporal scales in (general relativistic) magnetohydrodynamic (MHD/GRMHD) simulations. Simply using GRMHD simulations that resolve horizon to compute the feedback from the black hole to galactic scales is generally infeasible due to the very restrictive time step constraints ($$\gtrsim 9$$ orders of magnetidue!). To tackle this problem, we develop a series of methods to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales. I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation within Bondi radius, wandering massive black holes, etc.
 
 I love sharing our wonderful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (climbing, hiking, swimming, gardening, etc).
 
@@ -106,7 +106,7 @@ See below for the 3D structure (model available at [Sketchfab](https://skfb.ly/o
   <figcaption> Extraction of the surface of supernova remnants in a cloudy multiphase interstellar medium.</figcaption>
 </figure>
 
-Numerical Study of Modified Gravity Theory and the Application to Neutron Stars and Gravitational Waves
+Constraints on Modified Gravity Theory using Neutron Stars and Gravitational Waves
 ------
 
 ![STGROMX](/images/fig_stgromx.png)

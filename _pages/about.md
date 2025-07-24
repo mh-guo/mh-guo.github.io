@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking Unversity](https://www.pku.edu.cn/) in 2021.
+I am Minghao Guo (郭明浩), a final year graduate student at the <a href="https://web.astro.princeton.edu/" target="_blank" rel="noopener">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/) in 2021.
 
-My current research focuses on multiscale multiphase modeling on the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in (general relativistic) magnetohydrodynamic (GRMHD) simulations. Simply using GRMHD simulations that resolve horizon scales to compute the feedback from the event horizon to galactic scales is generally infeasible due to the very restrictive time step constraints. To tackle this problem, we develop a series of method to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales.
+My thesis work focuses on multiscale multiphase modeling on the dynamics of accretion onto and feedback from black holes across a vast range of spatial and temporal scales in (general relativistic) magnetohydrodynamic (MHD/GRMHD) simulations. Simply using GRMHD simulations that resolve horizon to compute the feedback from the black hole to galactic scales is generally infeasible due to the very restrictive time step constraints ($$\gtrsim 9$$ orders of magnetidue!). To tackle this problem, we develop a series of methods to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales. I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation within Bondi radius, wandering massive black holes, etc.
 
 I love sharing our wonderful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (climbing, hiking, swimming, gardening, etc).
 
 Last updated July, 2025.
 
-[Get my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+[Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======
 
 Publications
@@ -63,6 +63,7 @@ We present a "cyclic zoom" method to capture the dynamics of accretion flows ont
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
     <source src="https://mh-guo.github.io/videos/amh_proj_all.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
   <figcaption> Zoom-in MHD simulations of black hole accretion from galaxy down to event horizon.</figcaption>
 </figure>
@@ -74,6 +75,7 @@ See below for a video of the hydrodynamic case.
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
     <source src="https://mh-guo.github.io/videos/Acc_video_render_zoom.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
   <figcaption> Zoom-in hydrodynamic simulations of black hole accretion from galactic scales.</figcaption>
 </figure>
@@ -99,9 +101,17 @@ See below for the 3D structure (model available at [Sketchfab](https://skfb.ly/o
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
     <source src="https://mh-guo.github.io/videos/snr_3d_model.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
   <figcaption> Extraction of the surface of supernova remnants in a cloudy multiphase interstellar medium.</figcaption>
 </figure>
+
+Numerical Study of Modified Gravity Theory and the Application to Neutron Stars and Gravitational Waves
+------
+
+![STGROMX](/images/fig_stgromx.png)
+
+We investigated a scalar-tensor gravity theory proposed by Damour and Esposito-Farèse (DEF) that predicts large deviations from General Relativity for neutron stars through spontaneous scalarization phenomena. I constructed reduced-order surrogate model for the derived quantities in this theory, coded in a python package [pySTGROMX](https://github.com/AstroMG/pySTGROMX) that speeds up calculations at two orders of magnitude yet still keeps accuracy, compared with the previous algorithms. As an application, we utilized [pySTGROMX](https://github.com/AstroMG/pySTGROMX) to explore constraints on the DEF theory with latest well-timed binary pulsars and gravitational waves through Markov Chain Monte Carlo simulations. The work is summarized in  a first-author paper published in the Physical Review D.
 
 Hunting for Wandering Black Hole
 ------
@@ -110,11 +120,7 @@ Hunting for Wandering Black Hole
 
 In the Λ-cold dark matter universe, frequent galaxy mergers and the subsequent central BH interactions would probably create a population of wandering BHs. We investigated low-density accretion flows onto massive black holes orbiting around in the outskirts of their host galaxies (e.g., massive ellipticals, Milky Way, dwarf galaxies), performing three-dimensional simulations and semi-analytical calculations. We constructed radiative inefficient accretion-flow models for accretion near the horizon of a black hole, applied the simulation results to the emission model, and calculated the spectral energy distribution for the accretion flow onto a wandering black hole. We studied the detectability of wandering (super-massive) black holes in different types of galaxies, predicting that ALMA will enable us to hunt for a population of wandering BHs.
 
-<br>
-
-<br>
-
-<br>
+<div style="height: 4em;"></div>
 
 ...catch the black hole?
 ------

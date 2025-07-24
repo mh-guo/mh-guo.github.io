@@ -20,11 +20,11 @@ Education
 
 Position
 ======
-* Visiting graduate student at the Institute for Advanced Study, Dec 2023 -- 2026 (expected): 
+* Visiting graduate student at the Institute for Advanced Study, Dec 2023 -- 2026 (expected)
 
 Research
 ======
-  1. Black hole
+  1. Black hole accretion and feedback
   1. Supernova remnant
   1. Multiphase ISM
 
@@ -47,12 +47,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Teaching Astronomy in Prison Teaching Initiative
+* Member of the Learning the Universe Collaboration
+* Reviewer for the Astrophysical Journal (ApJ)
+* Astronomy on Tap Trenton Talk

@@ -54,6 +54,14 @@ My research interests include:
 ------
 
 ![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)
+<figure>
+  <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
+    <source src="https://mh-guo.github.io/videos/video_cyclic_zoom_sigma.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption> Magnetization of multiscale accretion flow around a spinning black hole using the cyclic zoom method (left: edge-on, right: face-on).</figcaption>
+</figure>
+
 
 We present a "cyclic zoom" method to capture the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in general relativistic magnetohydrodynamic (GRMHD) simulations. In this method, we cyclically zoom out (derefine) and zoom in (refine) the simulation domain while using a central mask region containing a careful treatment of the coarsened fluid variables to preserve the small-scale physics, particularly the magnetic field dynamics. The method can accelerate GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation. We demonstrate the validity of the technique using a series of tests, including spherically symmetric Bondi accretion, the Blandford-Znajek monopole, magnetized turbulent Bondi accretion, accretion of a magnetized rotating torus, and the long-term evolution of an accreting torus about both Schwarzschild and Kerr black holes. As applications, we simulate Bondi and rotating torus accretion onto black holes from galactic scales, covering an extremely large dynamic range. In Bondi accretion, the accretion rate is suppressed relative to the Bondi rate by $$\sim(10r_\mathrm{g}/r_\mathrm{B})^{1/2}$$ with a feedback power of $$\sim 0.01 \dot{M} c^2$$ for vanishing spin, and $$\sim 0.1 \dot{M} c^2$$ for spin $$a\approx0.9$$. In the long-term evolution of a rotating torus, the accretion rate decreases with time as $$\dot{M}\propto t^{-2}$$ on timescales much longer than the viscous timescale, demonstrating that our method can capture not only quasi-steady problems but also secular evolution. Our new method likewise holds significant promise for applications to many other problems that need to cover vast spatial and temporal scales.
 
@@ -106,24 +114,24 @@ See below for the 3D structure (model available at [Sketchfab](https://skfb.ly/o
   <figcaption> Extraction of the surface of supernova remnants in a cloudy multiphase interstellar medium.</figcaption>
 </figure>
 
-[Constraints on Modified Gravity Theory using Neutron Stars and Gravitational Waves](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104065)
+[Constraints on modified gravity theory using neutron stars and gravitational waves](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104065)
 ------
 
 ![STGROMX](/images/fig_stgromx.png)
 
 We investigated a scalar-tensor gravity theory proposed by Damour and Esposito-Farèse (DEF) that predicts large deviations from General Relativity for neutron stars through spontaneous scalarization phenomena. I constructed reduced-order surrogate model for the derived quantities in this theory, coded in a python package [pySTGROMX](https://github.com/AstroMG/pySTGROMX) that speeds up calculations at two orders of magnitude yet still keeps accuracy, compared with the previous algorithms. As an application, we utilized [pySTGROMX](https://github.com/AstroMG/pySTGROMX) to explore constraints on the DEF theory with latest well-timed binary pulsars and gravitational waves through Markov Chain Monte Carlo simulations. The work is summarized in  a first-author paper published in the Physical Review D.
 
-[Hunting for Wandering Black Hole](https://iopscience.iop.org/article/10.3847/1538-4357/abacc1)
+[Hunting for wandering massive black hole](https://iopscience.iop.org/article/10.3847/1538-4357/abacc1)
 ------
 
 ![Wandering BH](/images/fig_wandering_BH.png)
 
 In the Λ-cold dark matter universe, frequent galaxy mergers and the subsequent central BH interactions would probably create a population of wandering BHs. We investigated low-density accretion flows onto massive black holes orbiting around in the outskirts of their host galaxies (e.g., massive ellipticals, Milky Way, dwarf galaxies), performing three-dimensional simulations and semi-analytical calculations. We constructed radiative inefficient accretion-flow models for accretion near the horizon of a black hole, applied the simulation results to the emission model, and calculated the spectral energy distribution for the accretion flow onto a wandering black hole. We studied the detectability of wandering (super-massive) black holes in different types of galaxies, predicting that ALMA will enable us to hunt for a population of wandering BHs.
 
-[A New Channel of Bulge Formation](https://iopscience.iop.org/article/10.3847/1538-4357/ab584a)
+[A channel of bulge formation](https://iopscience.iop.org/article/10.3847/1538-4357/ab584a)
 ------
 
-![Bulge Formation](/images/fig_bulge_formation.png)
+![Bulge formation](/images/fig_bulge_formation.png)
 
 We studied real and simulated galaxies from both observational and dynamical points of view. Through morphological decomposition for the structures of the galaxy models in N-body simulations using IRAF and GALFIT, I investigated the long-term evolution of barred galaxies with growth of central BHs. We demonstrated that the destruction of short bar contributes significantly to the growth of the bulge which finally bears many similarities to a classical bulge in terms of observation. These results have important implications for the secular evolution of active galaxies and the effect of BH growth in shaping the inner structures of galaxies.
 

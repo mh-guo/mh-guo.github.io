@@ -9,11 +9,14 @@ redirect_from:
 
 I am Minghao Guo (郭明浩), a final year graduate student at the <a href="https://web.astro.princeton.edu/" target="_blank" rel="noopener">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/) in 2021.
 
-My thesis work focuses on multiscale multiphase modeling on black hole accretion and feedback across a vast range of spatial and temporal scales in (general relativistic) magnetohydrodynamic (MHD/GRMHD) simulations. Simply using GRMHD simulations that resolve horizon to compute the feedback from the black hole to galactic scales is generally infeasible due to the very restrictive time step constraints ($$\gtrsim 9$$ orders of magnetidue!). To tackle this problem, we develop a series of methods to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales. I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation within Bondi radius, wandering massive black holes, etc.
+As a computational astrophysicist, I use innovative numerical simulations to comprehend the rich physics from galactic scales all the way down to the event horizon of black holes. 
+It is a formidable task to use simulations that resolve horizon to compute the feedback from the black hole to galactic scales due to the very restrictive time step constraints (hundreds of years to run!). 
+To tackle this problem, I developed an entirely new framework to accelerate the simulations by $$\gtrsim 10^5$$ times for systems with large scale separation and used it to solve various problems. 
+I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation within Bondi radius, wandering massive black holes, etc.
 
-I love sharing our wonderful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (climbing, hiking, swimming, gardening, etc).
+I love sharing our beautiful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (rock climbing, hiking, swimming, gardening, etc).
 
-Last updated July, 2025.
+Last updated Aug, 2025.
 
 [Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======
@@ -24,13 +27,13 @@ Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_dat
 
 1. **Minghao Guo**, James M. Stone, Eliot Quataert, and Volker Springel, Cyclic Zoom: Multiscale GRMHD Modeling of Black Hole Accretion and Feedback, [ApJ 987, 202 (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/add1da), [arXiv:2504.16802 [astro-ph.HE]](https://arxiv.org/abs/2504.16802)
 
-1. **Minghao Guo**, Eliot Quataert, Jonathan Squire, Philip F. Hopkins, and James M. Stone, Idealized Global Models of Accretion Disks with Strong Toroidal Magnetic Fields, [arXiv:2505.12671 [astro-ph.HE]](https://arxiv.org/abs/2505.12671)
-
-1. **Minghao Guo**, Chang-Goo Kim, and James M. Stone, Evolution of Supernova Remnants in a Cloudy Multiphase Interstellar Medium, [arXiv:2411.12809 [astro-ph.GA]](https://arxiv.org/abs/2411.12809)
-
 1. **Minghao Guo**, James M. Stone, Eliot Quataert, and Chang-Goo Kim, Magnetized Accretion onto and Feedback from Supermassive Black Holes in Elliptical Galaxies, [ApJ 973, 141 (2024)](https://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7), [arXiv:2405.11711 [astro-ph.HE]](https://arxiv.org/abs/2405.11711)
 
 1. **Minghao Guo**, James M. Stone, Chang-Goo Kim, and Eliot Quataert, Toward Horizon-scale Accretion onto Supermassive Black Holes in Elliptical Galaxies, [ApJ 946, 26 (2023)](https://iopscience.iop.org/article/10.3847/1538-4357/acb81e), [arXiv:2211.05131 [astro-ph.HE]](https://arxiv.org/abs/2211.05131)
+
+1. **Minghao Guo**, Eliot Quataert, Jonathan Squire, Philip F. Hopkins, and James M. Stone, Idealized Global Models of Accretion Disks with Strong Toroidal Magnetic Fields, [arXiv:2505.12671 [astro-ph.HE]](https://arxiv.org/abs/2505.12671)
+
+1. **Minghao Guo**, Chang-Goo Kim, and James M. Stone, Evolution of Supernova Remnants in a Cloudy Multiphase Interstellar Medium, [ApJ 990, 49 (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/adeb85), [arXiv:2411.12809 [astro-ph.GA]](https://arxiv.org/abs/2411.12809)
 
 1. **Minghao Guo**, Junjie Zhao, and Lijing Shao, Extended reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and gravitational waves, [PhRvD 104, 104065(2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104065), [arXiv:2106.01622 [gr-qc]](https://arxiv.org/abs/2106.01622)
 

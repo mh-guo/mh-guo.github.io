@@ -63,6 +63,7 @@ Software development
 
 Talks
 ======
+(More talks are on the way, just as soon as I finish my next cup of coffee!)
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>  

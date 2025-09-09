@@ -12,7 +12,7 @@ I am Minghao Guo (郭明浩), a final year graduate student at the <a href="http
 As a computational astrophysicist, I use innovative numerical simulations to comprehend the rich physics from galactic scales all the way down to the event horizon of black holes. 
 It is a formidable task to use simulations that resolve horizon to compute the feedback from the black hole to galactic scales due to the very restrictive time step constraints (hundreds of years to run!). 
 To tackle this problem, I developed an entirely new framework to accelerate the simulations by $$\gtrsim 10^5$$ times for systems with large scale separation and used it to solve various problems. 
-I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation within Bondi radius, wandering massive black holes, etc.
+I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation of galactic centers, wandering massive black holes, etc.
 
 I love sharing our beautiful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (rock climbing, hiking, swimming, gardening, etc).
 

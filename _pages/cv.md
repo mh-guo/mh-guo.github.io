@@ -30,6 +30,9 @@ Research
 
 Publications
 ======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Below are first-author publications. The full list is available at <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc">ADS</a> and <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

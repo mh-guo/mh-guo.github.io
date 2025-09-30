@@ -8,7 +8,7 @@ tags:
   - GRMHD
 ---
 
-What is the question?
+In-N-Out
 ======
 
 The challenge of simulating accretion and feedback from SMBHs to galactic scales is the vast range of spatial and temporal scales. To tackle this problem, we repeatedly zoom out (derefine) and zoom in (refine) the simulation domain, which we denote as the ''cyclic zoom'' method. The spatial resolution is correspondingly decreased (increased) when we zoom out (in) using AMR to alleviate the time step constraints while keeping the same relative resolution $$\Delta x/x$$ for the region of interest. A mask region in the center is used to preserve the small-scale physics. 

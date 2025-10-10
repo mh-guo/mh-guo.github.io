@@ -30,7 +30,7 @@ author:
   bio              : "PhD student in Astrophysical Sciences"
   location         : "Universe"
   employer         : "Princeton"
-  employer_url     : "https://web.astro.princeton.edu/"
+  employer_url     : # "https://web.astro.princeton.edu/"
   uri              : "https://mh-guo.github.io/"
   email            : "mhguo@princeton.edu" 
 

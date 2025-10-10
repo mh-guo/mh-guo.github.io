@@ -29,8 +29,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Astrophysical Sciences"
   location         : "Universe"
-  employer         : "Princeton"
-  employer_url     : # "https://web.astro.princeton.edu/"
+  employer         : "Princeton University"
+  employer_url     : "https://web.astro.princeton.edu/"
   uri              : "https://mh-guo.github.io/"
   email            : "mhguo@princeton.edu" 
 

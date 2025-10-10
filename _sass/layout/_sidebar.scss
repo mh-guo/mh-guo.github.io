@@ -133,9 +133,9 @@
 }
 
 .sidebar .author__desktop {
-  display: none;
+  display: flex;
   @media screen and (min-width: 1024px) {
-    display: block;
+    display: flex;
   }
 }
 

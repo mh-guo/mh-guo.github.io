@@ -14,16 +14,16 @@ It is a formidable task to use simulations that resolve horizon to compute the f
 To tackle this problem, I developed an entirely new framework to accelerate the simulations by $$\gtrsim 10^5$$ times for systems with large scale separation and used it to solve various problems. 
 I'm also working on a wide range of topics including supernova remnants, feeding circumbinary disk, observation of galactic centers, wandering massive black holes, etc.
 
-I love sharing our beautiful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (rock climbing, hiking, swimming, gardening, etc).
+I love sharing our beautiful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (rock climbing, tennis, hiking, swimming, gardening, etc).
 
-Last updated Aug, 2025.
+Last updated Dec, 2025.
 
 [Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======
 
 Publications
 ======
-Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc) and [Google Scholar]({{site.author.googlescholar}}). Below are first-author works:
+Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc), [Google Scholar]({{site.author.googlescholar}}) or [ORCID](https://orcid.org/0000-0002-3680-5420). Below are first-author works:
 
 1. **Minghao Guo**, James M. Stone, Eliot Quataert, and Volker Springel, Cyclic Zoom: Multiscale GRMHD Modeling of Black Hole Accretion and Feedback, [ApJ 987, 202 (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/add1da), [arXiv:2504.16802 [astro-ph.HE]](https://arxiv.org/abs/2504.16802)
 
@@ -53,7 +53,7 @@ My research interests include:
 - Numerical methods and simulations, GPU computing, new numerical techniques
 - Neutron stars, pulsars, gravitational waves, modified gravity theory
 
-[Cyclic Zoom: Solving the multiscale problem](https://iopscience.iop.org/article/10.3847/1538-4357/add1da)
+[Cyclic Zoom: Overcoming the multiscale problem](https://iopscience.iop.org/article/10.3847/1538-4357/add1da)
 ------
 
 ![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)

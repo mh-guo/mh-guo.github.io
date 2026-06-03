@@ -53,7 +53,7 @@ My research interests include:
 - Numerical methods and simulations, GPU computing, new numerical techniques
 - Neutron stars, pulsars, gravitational waves, modified gravity theory
 
-[Cyclic Zoom: Overcoming the multiscale problem](https://iopscience.iop.org/article/10.3847/1538-4357/add1da)
+[Cyclic Zoom: Overcoming the multiscale challenge](https://iopscience.iop.org/article/10.3847/1538-4357/add1da)
 ------
 
 ![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)

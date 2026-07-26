@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am Minghao Guo (郭明浩), a final year graduate student at the <a href="https://web.astro.princeton.edu/" target="_blank" rel="noopener">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/) in 2021.
+I'll be joining Columbia University as a [Junior Fellow in the Simons Society of Fellows](https://www.simonsfoundation.org/people/minghao-guo/) in Fall 2026.
 
 As a computational astrophysicist, I use innovative numerical simulations to comprehend the rich physics from galactic scales all the way down to the event horizon of black holes. 
 It is a formidable task to use simulations that resolve horizon to compute the feedback from the black hole to galactic scales due to the very restrictive time step constraints (hundreds of years to run!). 

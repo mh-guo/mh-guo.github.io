@@ -32,7 +32,8 @@ Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_dat
 
 1. **Minghao Guo**, James M. Stone, Chang-Goo Kim, and Eliot Quataert, Toward Horizon-scale Accretion onto Supermassive Black Holes in Elliptical Galaxies, [ApJ 946, 26 (2023)](https://iopscience.iop.org/article/10.3847/1538-4357/acb81e), [arXiv:2211.05131 [astro-ph.HE]](https://arxiv.org/abs/2211.05131)
 
-1. **Minghao Guo**, Eliot Quataert, Jonathan Squire, Philip F. Hopkins, and James M. Stone, Idealized Global Models of Accretion Disks with Strong Toroidal Magnetic Fields, [arXiv:2505.12671 [astro-ph.HE]](https://arxiv.org/abs/2505.12671)
+1. **Minghao Guo**, Eliot Quataert, Jonathan Squire, Philip F. Hopkins, and James M. Stone, Idealized Global Models of Accretion Disks with Strong Toroidal Magnetic Fields, [The Open Journal of
+Astrophysics, 9, 63966](http://doi.org/10.33232/001c.163966), [arXiv:2505.12671 [astro-ph.HE]](https://arxiv.org/abs/2505.12671)
 
 1. **Minghao Guo**, Chang-Goo Kim, and James M. Stone, Evolution of Supernova Remnants in a Cloudy Multiphase Interstellar Medium, [ApJ 990, 49 (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/adeb85), [arXiv:2411.12809 [astro-ph.GA]](https://arxiv.org/abs/2411.12809)
 

@@ -12,15 +12,16 @@ redirect_from:
 [Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 =====
 
-Education
-======
-* Ph.D student in Astrophysics, Princeton University, 2026 (expected)
-* M.S. in Astrophysics, Princeton University, 2023
-* B.S. in Physics, Peking University, 2021
-
 Experience
 ======
-* Visiting graduate student at the Institute for Advanced Study, Dec 2023 -- 2026 (expected)
+* Junior Fellow in the Simons Society of Fellows, Columbia University, 2026 -- present
+* Visiting graduate student at the Institute for Advanced Study, Dec 2023 -- 2026
+
+Education
+======
+* Ph.D. in Astrophysical Sciences, Princeton University, 2026
+* M.S. in Astrophysics, Princeton University, 2023
+* B.S. in Physics, Peking University, 2021
 
 Research
 ======

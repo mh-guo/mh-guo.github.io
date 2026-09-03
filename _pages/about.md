@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Minghao Guo (郭明浩), a final year graduate student at the <a href="https://web.astro.princeton.edu/" target="_blank" rel="noopener">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/) in 2021.
-I'll be joining Columbia University as a [Junior Fellow in the Simons Society of Fellows](https://www.simonsfoundation.org/people/minghao-guo/) in Fall 2026.
+I am Minghao Guo (郭明浩), a [Junior Fellow in the Simons Society of Fellows](https://www.simonsfoundation.org/people/minghao-guo/) at the <a href="https://www.astro.columbia.edu/" target="_blank" rel="noopener">Department of Astronomy, Columbia University</a>, working with Prof. [Greg Bryan](http://user.astro.columbia.edu/~gbryan/Site/home.html). I received my Ph.D. in Astrophysical Sciences from [Princeton University](https://web.astro.princeton.edu/) in 2026, supervised by Profs. [Eliot Quataert](https://www.astro.princeton.edu/~quataert/) and [James Stone](https://www.ias.edu/scholars/stone). During my Ph.D., I was a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu/). I am a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org). I received my B.S. in Physics from [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/) in 2021.
 
 As a computational astrophysicist, I use innovative numerical simulations to comprehend the rich physics from galactic scales all the way down to the event horizon of black holes. 
 It is a formidable task to use simulations that resolve horizon to compute the feedback from the black hole to galactic scales due to the very restrictive time step constraints (hundreds of years to run!). 
@@ -17,7 +16,7 @@ I'm also working on a wide range of topics including supernova remnants, feeding
 
 I love sharing our beautiful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside academia, I like the nature in general (rock climbing, tennis, hiking, swimming, gardening, etc).
 
-Last updated Dec, 2025.
+Last updated Sep, 2026.
 
 [Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======

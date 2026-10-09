@@ -18,7 +18,7 @@ I love sharing our beautiful universe to the public, and I give outreach talks a
 
 Last updated Sep, 2026.
 
-[Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+[Download my CV here]({{ '/CV_Minghao_Guo.pdf' | relative_url }})
 ======
 
 Publications
@@ -60,7 +60,7 @@ My research interests include:
 ![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
-    <source src="https://mh-guo.github.io/videos/video_cyclic_zoom_sigma.mp4" type="video/mp4">
+    <source src="{{ '/videos/video_cyclic_zoom_sigma.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption> Magnetization of multiscale accretion flow around a spinning black hole using the cyclic zoom method (left: edge-on, right: face-on).</figcaption>
@@ -74,7 +74,7 @@ We present a "cyclic zoom" method to capture the dynamics of accretion flows ont
 
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
-    <source src="https://mh-guo.github.io/videos/amh_proj_all.mp4" type="video/mp4">
+    <source src="{{ '/videos/amh_proj_all.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption> Zoom-in MHD simulations of black hole accretion from galaxy down to event horizon.</figcaption>
@@ -90,7 +90,7 @@ See below for a video of the [hydrodynamic simulations](https://iopscience.iop.o
 
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
-    <source src="https://mh-guo.github.io/videos/Acc_video_render_zoom.mp4" type="video/mp4">
+    <source src="{{ '/videos/Acc_video_render_zoom.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption> Zoom-in hydrodynamic simulations of black hole accretion from galactic scales.</figcaption>
@@ -116,7 +116,7 @@ See below for the 3D structure (model available at [Sketchfab](https://skfb.ly/o
 
 <figure>
   <video autoplay muted loop playsinline controls style="width: 100%; height: auto;">
-    <source src="https://mh-guo.github.io/videos/snr_3d_model.mp4" type="video/mp4">
+    <source src="{{ '/videos/snr_3d_model.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption> Extraction of the surface of supernova remnants in a cloudy multiphase interstellar medium.</figcaption>

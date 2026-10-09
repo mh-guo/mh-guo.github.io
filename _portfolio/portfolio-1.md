@@ -6,7 +6,7 @@ collection: portfolio
 
 <figure>
   <video autoplay muted loop playsinline width="960" controls>
-    <source src="https://mh-guo.github.io/videos/video_background_z3.mp4" type="video/mp4">
+    <source src="{{ '/videos/video_background_z3.mp4' | relative_url }}" type="video/mp4">
   </video>
 </figure>
 

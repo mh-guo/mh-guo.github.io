@@ -1,5 +1,8 @@
-{% if site.url %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
-  {% assign base_path = site.github.url %}
-{% endif %}
+{% comment %}
+  Root-relative prefix for internal links. This is site.baseurl (empty when the
+  site is served from the domain root). Do not prepend site.url here: absolute
+  asset URLs break when the GitHub Pages hostname redirects to the custom domain.
+  Use the relative_url filter for assets and the absolute_url filter when a full
+  https:// URL is required (canonical, Open Graph, share links).
+{% endcomment %}
+{% assign base_path = site.baseurl | default: "" %}

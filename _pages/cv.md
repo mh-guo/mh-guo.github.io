@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+[Download my CV here]({{ '/CV_Minghao_Guo.pdf' | relative_url }})
 =====
 
 Experience

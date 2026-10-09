@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
+<link rel="stylesheet" href="{{ '/assets/css/cv-style.css' | relative_url }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 <style>
@@ -30,6 +30,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+  <a href="{{ '/files/cv.pdf' | relative_url }}" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ '/' | relative_url }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
